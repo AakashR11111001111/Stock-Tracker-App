@@ -1,4 +1,4 @@
-const apiKey = 'YOUR_ALPHA_VANTAGE_API_KEY';
+const apiKey = '8M4VEV3C73D4QX7E';
 const stockSearch = document.getElementById('stockSearch');
 const searchButton = document.getElementById('searchButton');
 const stockDetails = document.getElementById('stockDetails');
